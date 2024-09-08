@@ -44,6 +44,58 @@ Time a.m./p.m. First name of roulette dealer Last name of roulette dealer
 ![image](https://github.com/user-attachments/assets/ef3d213f-0a04-4a11-8225-b0cc29d691f1)
 
 
+For example, if a loss occurred on March 10 at 2 p.m., you would write one script to find the roulette dealer who was working at that specific day and time. Run all of the scripts and append those results to a file called Dealers_working_during_losses.txt
+
+![image](https://github.com/user-attachments/assets/a72b3a40-b501-4c28-bb3f-d52082bcdf98)
+
+
+
+Preview your file Dealers_working_during_losses and analyze the data. The primary dealer working at the times where losses occurred.
+
+How many times the dealer worked when major losses occurred. Complete the player/employee correlation.
+
+![image](https://github.com/user-attachments/assets/ee97cc40-588b-4f2d-bb4f-7d9c9b51fd93)
+
+
+In the notes file of the Player_Dealer_Correlation directory, add a summary of your findings noting the player and dealer you believe are colluding to scam Lucky Duck. Make sure to document your specific reasons for this finding.
+
+![image](https://github.com/user-attachments/assets/921676eb-44eb-49d6-84cb-edb42e217bc3)
+
+
+Scripting Your Tasks:
+
+You manager is impressed with the work you have done so far on the investigation.
+
+They've now tasked you with building a shell script that can easily analyze future employee schedules. They will use this script to determine which employee was working at a given time in the case of future losses.
+
+Complete the following tasks:
+
+Remain in the Dealer_Analysis directory. Develop a shell script called roulette_dealer_finder_by_time.sh 
+
+![image](https://github.com/user-attachments/assets/dea2a6f7-bf1c-4ad1-9942-25a881489b47)
+
+![image](https://github.com/user-attachments/assets/e24e9c9e-c6ff-4d69-9c7e-d60385071fbc)
+
+that can analyze the employee schedule to easily find the roulette dealer at a specific time. Hint: You will be using a script similar to the one you created for the dealer analysis step, but you will not output the results into a file.
+
+Design the shell script to accept the following two arguments: One for the date (four digits) One for the time Note: The argument should be able to accept a.m. or p.m. Test your script on the schedules to confirm it outputs the correct dealer at the time specified.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
