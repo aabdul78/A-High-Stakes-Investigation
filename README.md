@@ -11,3 +11,7 @@ To prepare for the investigation, I initiated the process by executing the mkdir
 
 In this directory, create a directory for this specific investigation titled Roulette_Loss_Investigation. In Roulette_Loss_Investigation, create the following directories: Player_Analysis to investigate the casino player. Dealer_Analysis to investigate the dealers. Player_Dealer_Correlation to summarize your findings of the collusion. Create empty files called Notes_ under each subdirectory to store investigation notes. For example: Notes_Player_Analysis
 
+![image](https://github.com/user-attachments/assets/473b1324-15be-4d17-afe6-393114e69052)
+
+
+
