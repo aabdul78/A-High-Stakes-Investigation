@@ -14,5 +14,34 @@ In this directory, create a directory for this specific investigation titled Rou
 ![image](https://github.com/user-attachments/assets/473b1324-15be-4d17-afe6-393114e69052)
 
 
-https://github.com/abdisalanfirin/A-High-Stakes-Investigation/blob/main/Scenariofile.md.md#:~:text=Gathering%20Evidence,the%20directory%20Player_Analysis.
+Gathering Evidence:
+
+The next objective is to transfer evidence from the specific days when Lucky Duck encountered significant losses at the roulette tables. The directory Lucky_Duck_Investigations includes the investigation directories and notes files you have generated. Within this directory, you will find Roulette_Player_WinLoss_0310, which holds the data regarding player wins and losses. The directories Dealer_Schedules_0310 and Roulette_Player_WinLoss_0310 contain the dealer schedules and player win/loss data from the roulette tables for the week of March 10. As the losses occurred on March 10, 12, and 15, you are required to relocate the schedules for those days to the Dealer_Analysis directory and move the respective files to the Player_Analysis directory.
+
+![image](https://github.com/user-attachments/assets/6969432b-6ff6-449c-ab31-2079e47c10ab)
+
+
+Correlating the Evidence:
+
+Your next task is to correlate the large losses from the roulette tables with the dealer schedule. This will help you determine which dealer and player are colluding to steal money from Lucky Duck. At Lucky Duck Casino, positive numbers signify winnings, while negative numbers indicate losses. To perform the player analysis, access the Player_Analysis directory. Employ grep to segregate all losses on March 10, 12, and 15. Save these findings in a file named Roulette_Losses. Examine the content of the Roulette_Losses file for data analysis.
+
+![image](https://github.com/user-attachments/assets/ee1be3fe-a6f5-4fd5-bb6f-69968cd65a1a)
+
+Record in the Notes_Player_Analysis file:
+
+
+The occurrences of losses at specific times each day and the player consistently playing during those times. Additionally, determine the total number of times this player was engaged in playing activities.
+![image](https://github.com/user-attachments/assets/9a3fe79e-19c4-4490-94f8-8090e2ca655c)
+
+
+Complete the dealer analysis:
+
+Navigate to the Dealer_Analysis directory
+
+This file contains the dealer schedules for the various Lucky Duck casino games: Blackjack, Roulette, and Texas Hold 'Em. Using your findings from the player analysis, create a separate script to look at each day and time that you determined losses occurred. Use awk, pipes, and grep to isolate out the following four fields:
+
+Time a.m./p.m. First name of roulette dealer Last name of roulette dealer
+
+
+
 
