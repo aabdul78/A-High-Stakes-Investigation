@@ -14,4 +14,5 @@ In this directory, create a directory for this specific investigation titled Rou
 ![image](https://github.com/user-attachments/assets/473b1324-15be-4d17-afe6-393114e69052)
 
 
+https://github.com/abdisalanfirin/A-High-Stakes-Investigation/blob/main/Scenariofile.md.md#:~:text=Gathering%20Evidence,the%20directory%20Player_Analysis.
 
