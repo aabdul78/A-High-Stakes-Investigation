@@ -18,7 +18,8 @@ Gathering Evidence:
 
 The next objective is to transfer evidence from the specific days when Lucky Duck encountered significant losses at the roulette tables. The directory Lucky_Duck_Investigations includes the investigation directories and notes files you have generated. Within this directory, you will find Roulette_Player_WinLoss_0310, which holds the data regarding player wins and losses. The directories Dealer_Schedules_0310 and Roulette_Player_WinLoss_0310 contain the dealer schedules and player win/loss data from the roulette tables for the week of March 10. As the losses occurred on March 10, 12, and 15, you are required to relocate the schedules for those days to the Dealer_Analysis directory and move the respective files to the Player_Analysis directory.
 
-![image](https://github.com/user-attachments/assets/6969432b-6ff6-449c-ab31-2079e47c10ab)
+![image](https://github.com/user-attachments/assets/1465ebcd-479d-4758-bf62-03b2b4774ddf)
+
 
 
 Correlating the Evidence:
