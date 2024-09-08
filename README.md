@@ -41,6 +41,8 @@ Navigate to the Dealer_Analysis directory
 This file contains the dealer schedules for the various Lucky Duck casino games: Blackjack, Roulette, and Texas Hold 'Em. Using your findings from the player analysis, create a separate script to look at each day and time that you determined losses occurred. Use awk, pipes, and grep to isolate out the following four fields:
 
 Time a.m./p.m. First name of roulette dealer Last name of roulette dealer
+![image](https://github.com/user-attachments/assets/ef3d213f-0a04-4a11-8225-b0cc29d691f1)
+
 
 
 
