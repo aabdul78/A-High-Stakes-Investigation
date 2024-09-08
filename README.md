@@ -74,13 +74,25 @@ Remain in the Dealer_Analysis directory. Develop a shell script called roulette_
 
 ![image](https://github.com/user-attachments/assets/dea2a6f7-bf1c-4ad1-9942-25a881489b47)
 
-![image](https://github.com/user-attachments/assets/e24e9c9e-c6ff-4d69-9c7e-d60385071fbc)
 
 that can analyze the employee schedule to easily find the roulette dealer at a specific time. Hint: You will be using a script similar to the one you created for the dealer analysis step, but you will not output the results into a file.
 
 Design the shell script to accept the following two arguments: One for the date (four digits) One for the time Note: The argument should be able to accept a.m. or p.m. Test your script on the schedules to confirm it outputs the correct dealer at the time specified.
 
 
+Bonus:
+
+In case there is future fraud on the other Lucky Duck games, create a shell script called roulette_dealer_finder_by_time_and_game.sh that has the three following arguments: Specific time Specific date Casino game being played
+![image](https://github.com/user-attachments/assets/e24e9c9e-c6ff-4d69-9c7e-d60385071fbc)
+
+
+Submission Guidelines:
+
+Move the following to the Player_Dealer_Correlation directory:
+
+All note files Evidence files: Roulette_Losses Dealers_working_during_losses Shell script(s) Compress the Player_Dealer_Correlation folder to a zip file and submit it.
+
+![image](https://github.com/user-attachments/assets/8e8eda50-91a0-4734-88c6-99099abac433)
 
 
 
