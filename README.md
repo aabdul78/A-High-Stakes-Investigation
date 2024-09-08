@@ -31,7 +31,8 @@ Record in the Notes_Player_Analysis file:
 
 
 The occurrences of losses at specific times each day and the player consistently playing during those times. Additionally, determine the total number of times this player was engaged in playing activities.
-![image](https://github.com/user-attachments/assets/9a3fe79e-19c4-4490-94f8-8090e2ca655c)
+![image](https://github.com/user-attachments/assets/3acb83b7-98d7-4a02-85a0-f58c75db7613)
+
 
 
 Complete the dealer analysis:
